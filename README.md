@@ -1,4 +1,4 @@
-Custom rest validation
+Alter exception msg of core Rest API
 =======================
 custom_rest_validation module can alter the exception message of core Rest API by implementing an "event subscribe" approach.
 
